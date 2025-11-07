@@ -1,0 +1,9 @@
+What is React?
+React is a JavaScript library used to build user interfaces, especially for web applications. It was developed by Facebook and is now widely used by developers around the world.
+Think of React as a tool that helps you build interactive websites—like dashboards, forms, or social media apps—where the content updates dynamically without reloading the whole page.
+
+🧠 Core Concepts of React
+1. Components
+React apps are made up of components.
+🔹 A component is like a small piece of your UI (e.g., a button, a form, a navbar).
+🔹 You can reuse components across your app.
